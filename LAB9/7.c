@@ -59,9 +59,6 @@ void intersection(int *arr1, int *arr2, int size1, int size2)
         }
         count = 0;
     }
-    if(noIntersec) {
-        printf("None");
-    }
 }
 
 int main()
